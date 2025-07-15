@@ -18,22 +18,7 @@ This project focuses on implementing a stopwatch using React to demonstrate:
 - CSS / Tailwind
 - JavaScript (ES6+)
 📁 Project Structure
-stopwatch-app/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   ├── Controls.jsx
-│   │   ├── Display.jsx
-│   │   └── LapList.jsx
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles.css
-│
-├── package.json
-└── README.md
+
 🧩 How It Works
 - Stopwatch logic is controlled using React state and interval timers.
 - Buttons control start, stop, and reset behavior.
